@@ -1,4 +1,4 @@
-# SDL
+# Software Development Lab
 Mid Sem Project
 
 
@@ -41,3 +41,6 @@ Bingo is also a client vs computer version, where the algorithm once again aims 
 
 
 
+# Human Computer Interface
+
+This project is currently a work in progress to make additions for enriching asthetic elements.
